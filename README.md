@@ -3,4 +3,4 @@
 | section |                                              project                                              |
 | :-----: | :-----------------------------------------------------------------------------------------------: |
 |   03    | [페이지 & 파일 기반 라우팅](https://github.com/Anjiwoong/Next-js-study/tree/main/page-file-route) |
-|   04    |                                   [파일 기반 라우팅 프로젝트]()                                   |
+|   04    | [파일 기반 라우팅 프로젝트](https://github.com/Anjiwoong/Next-js-study/tree/main/router-project)  |
