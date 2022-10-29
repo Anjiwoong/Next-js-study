@@ -6,3 +6,4 @@
 |   04    |               [파일 기반 라우팅 프로젝트](https://github.com/Anjiwoong/Next-js-study/tree/main/router-project)               |
 |   05    |            [페이지 사전 렌더링 & 데이터 페칭](https://github.com/Anjiwoong/Next-js-study/tree/main/data-fetching)            |
 |   06    | [페이지 사전 렌더링 & 데이터 페칭 프로젝트 연습](https://github.com/Anjiwoong/Next-js-study/tree/main/data-fetching-project) |
+|   06    |                  [NextJS 앱 최적화하기](https://github.com/Anjiwoong/Next-js-study/tree/main/optimization)                   |
