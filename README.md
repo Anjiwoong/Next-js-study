@@ -8,3 +8,4 @@
 |   06    | [페이지 사전 렌더링 & 데이터 페칭 프로젝트 연습](https://github.com/Anjiwoong/Next-js-study/tree/main/data-fetching-project) |
 |   07    |                  [NextJS 앱 최적화하기](https://github.com/Anjiwoong/Next-js-study/tree/main/optimization)                   |
 |   08    |                         [API 라우트](https://github.com/Anjiwoong/Next-js-study/tree/main/api-route)                         |
+|   09    |                     [API 라우트](https://github.com/Anjiwoong/Next-js-study/tree/main/api-route-project)                     |
